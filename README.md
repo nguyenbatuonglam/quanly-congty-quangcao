@@ -1,5 +1,4 @@
-# quanly-congty-quangcao
-Phần mềm quản lý tổng thể công ty quảng cáo
+# Phần mềm quản lý tổng thể công ty quảng cáo tốt nhất
 
 **Phần mềm quản lý công ty quảng cáo từ A-Z: Giải pháp tối ưu cho doanh nghiệp**
 
